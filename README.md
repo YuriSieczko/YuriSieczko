@@ -6,6 +6,6 @@
 </div>
 
 ### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/yuri-bora-sieczko-280aa2199/">
+<a href="https://www.linkedin.com/in/yuri-bora-sieczko-280aa2199/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
+</a>
